@@ -2,4 +2,4 @@ To develop AI/ML based models to predict time-varying patterns of the error buil
 
 WIP (Work In Progress)
 
-Current Phase: Gaussianising and decorrelating GNSS Error features.
+![Project Status](https://img.shields.io/badge/Status-Gaussianising_Data-blue)
